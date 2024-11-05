@@ -2,7 +2,7 @@ defmodule PrometheusPlugs.Mixfile do
   use Mix.Project
 
   @source_url "https://github.com/deadtrickster/prometheus-plugs"
-  @version "1.1.5"
+  @version "1.1.6"
 
   def project do
     [
